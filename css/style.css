@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background: hsl(233, 47%, 7%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    color: hsl(0, 0%, 100%);
+    padding: 7% 5%;
+}
+
+
+/* MAIN CARD */
+.card {
+    background: hsl(244, 38%, 16%);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.heading {
+    font-size: 1.7rem;
+    padding: 8% 8% 4%;
+}
+
+span {
+    color: hsl(277, 64%, 61%);
+}
+
+.benefits-text {
+    color: hsl(0, 0%, 100%, 0.75);
+    padding: 5% 8%;
+    font-size: 1.2rem;
+}
+
+.important-data {
+    text-align: center;
+    padding: 5% 5%;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+table {
+    padding: 1% 2%;
+    word-spacing: 8%;
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: 45px 15px;
+}
+
+.important-number {
+    font-size: 2.2rem;
+
+}
+
+.important-text {
+    color: hsla(0, 0%, 100%, 0.6);
+    text-transform: uppercase;
+
+}
+
+/* END MAIN CARD */
+
+/* IMAGE SECTION */
+.image {
+    width: 100%;
+    background-color: #fff;
+    background-image: url(../images/image-header-desktop.jpg);
+    background-repeat: round;
+}
+
+.color-overlay {
+    width: 100%;
+    height: 100%;
+    background: hsl(277, 64%, 61%);
+    opacity: 0.5;
+    z-index: 1;
+}
+
+/* END IMAGE SECTION */
+
+/* BOTTOM PART */
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+/* END BOTTOM PART */
