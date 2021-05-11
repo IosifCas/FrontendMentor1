@@ -16,15 +16,13 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
 
 Users should be able to:
 
-- View the optimal layout depending on their device's screen size
+- View the optimal layout depending on their device's screen size *still working on that*
 
 ### Screenshot
 
@@ -32,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/IosifCas/FrontendMentorPractice1)
-- [Live Site URL](https://iosifcas.github.io/FrontendMentorPractice1/)
+- [Solution URL](https://github.com/IosifCas/FrontendMentor1)
+- [Live Site URL](https://iosifcas.github.io/FrontendMentor1/)
 
 ## My process
 
@@ -41,21 +39,21 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- [Bootstrap](https://getbootstrap.com/)
 - [Styled Components](https://styled-components.com/) - For styles
 
 
 ### What I learned
 
-This practice has helped me strenghten my knowledge in the Bootstrap framework and how to properly use its containers.
+This practice has helped me strenghten my knowledge in the CSS properties and its use to insert images and layers on top of them, plus some tweaks for the aling properties.
 
 ### Continued development
 
-The image shown still has to show a layer of colour over it, still working on that.
+The mobile version of the site sill has to be edited.
 
 ### Useful resources
 
-- [Bootstrap containers](https://getbootstrap.com/docs/5.0/layout/containers/) - This helped me to organize the text to the left.
+- [MDN Developers](https://developer.mozilla.org/en-US/docs/Web) - The ever so useful MDN documentation.
+- [Geek of geeks](https://www.geeksforgeeks.org/space-between-two-rows-in-a-table-using-css/#:~:text=The%20space%20between%20two%20rows,table%20is%20collapse%20or%20not.) - Hints for spacing the content of the table.
 
 
 ## Author
